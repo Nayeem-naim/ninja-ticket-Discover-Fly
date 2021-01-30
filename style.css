@@ -120,3 +120,14 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+#thankyou{
+    text-align: center;
+    height: 200px;
+    padding: 80px;
+    width: 300ps;
+    margin-top: -800px;
+    background-color:gray;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px black;
+    display: none;
+}
